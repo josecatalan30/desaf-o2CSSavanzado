@@ -38,6 +38,7 @@ body{
 .categorias{
     display: flex;
 }
+
 .categorias > .cantidad{
     font-size: small;
     align-content: center;
@@ -51,6 +52,7 @@ body{
     gap: 5%;
     padding: 1% 5% 5% 5%;
 }
+
 .producto_card{
     background-color: white;
     display: flex;
@@ -77,9 +79,6 @@ button {
   width: 107%;
   font-size: large;
 }
-
-
-
 
 .footer{
     grid-area: footer;
